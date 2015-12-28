@@ -9,4 +9,4 @@
 6. 强调色指需要特殊强调，与主色等区别比较明显的颜色，鲜艳的强调色用于你的主要操作按钮以及组件，如开关或滑片。左对齐的部分图标或章节标题也可以使用强调色。  
 
 
-详细请见[https://github.com/Colormark/AppUIConfig/blob/master/UIConfig.swift]UIConfig.swift
+详细请见[https://github.com/Colormark/AppUIConfig/blob/master/UIConfig.swift UIConfig.swift]
